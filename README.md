@@ -1,2 +1,5 @@
 # 5143-Opsys
-5143 Advanced Operating Systems repository
+Andrew Huff
+Personal email - drewhuff2502@gmail.com
+MSU email - adhuff0205@my.msutexas.edu
+https://github.com/AndrewHuff6/
